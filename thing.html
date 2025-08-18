@@ -1,4 +1,3 @@
-# strandedkerbal.github.io
 <DOCTYPE! html>
 <html>
 <p>Almajara</p>
