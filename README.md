@@ -1,5 +1,5 @@
 # strandedkerbal.github.io
-<!DOCTYPE HTML>
+<DOCTYPE! html>
 <html>
 <p>Almajara</p>
 </html>
