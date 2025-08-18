@@ -1,4 +1,5 @@
 # strandedkerbal.github.io
+<!DOCTYPE HTML>
 <html>
-<h1>Almajara: A galactic adventure</h1>
+<p>Almajara</p>
 </html>
